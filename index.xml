@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+
+ <!-- NEXUS NOOK GADGETS STORE -->
+
+    <Kitchen:product-01 PIN ="1785412" xmlns:Kitchen ="www.kitchen.com">
+        <Kitchen:pr.name>Juicer Blender</Kitchen:pr.name>
+        <Kitchen:pr.retail-price>Rs 1700</Kitchen:pr.retail-price>
+        <Kitchen:pr.selling-price>Rs 2500</Kitchen:pr.selling-price>
+    </Kitchen:product-01>
+
+    <Solver:product-02 PIN ="2143232" xmlns:Solver ="www.solver.com">
+        <Solver:pr.name>EMS Foot Massager</Solver:pr.name>
+        <Solver:pr.retail-price>Rs 800</Solver:pr.retail-price>
+        <Solver:pr.selling-price>Rs 1200</Solver:pr.selling-price>
+    </Solver:product-02>
+
+    <Decor:product-03 PIN ="213213"  xmlns:Decor ="www.Decor.com">
+        <Decor:pr.name>UltraSonic Diffuser</Decor:pr.name>
+        <Decor:pr.retail-price>Rs 2500</Decor:pr.retail-price>
+        <Decor:pr.selling-price>Rs 3500</Decor:pr.selling-price>
+    </Decor:product-03>
+
+    <Keychains:product-04 PIN ="213123" xmlns:Keychains ="www.keychains.com">
+        <Keychains:pr.name>DIY Kechains</Keychains:pr.name>
+        <Keychains:pr.retail-price>Rs 1800</Keychains:pr.retail-price>
+        <Keychains:pr.selling-price>Rs 2700</Keychains:pr.selling-price>
+    </Keychains:product-04>
+
+
+</Products>
